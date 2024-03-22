@@ -1,7 +1,7 @@
 const os = require('os');
 
 module.exports.config = {
- name: "up",
+ name: "upt",
  version: "1.0.2",
  hasPermssion: 0,
  credits: "cliff",
