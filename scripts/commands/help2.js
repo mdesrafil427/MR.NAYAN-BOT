@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 module.exports.config = {
-	name: "help2",
+	name: "hlp2",
 	version: "1.0.0",
 	hasPermission: 0,
 	credits: "Yenzy",
