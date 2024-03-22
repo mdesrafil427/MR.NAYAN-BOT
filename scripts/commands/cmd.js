@@ -1,6 +1,6 @@
 import fs from "fs";
 export const setup = {
-  name: "cmd",
+  name: "cmdx",
   version: "40.0.0",
   permission: "Admin",
   creator: "John Lester",
