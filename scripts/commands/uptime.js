@@ -7,7 +7,7 @@ module.exports.config = {
  credits: "cliff",
  description: "uptime",
  commandCategory: "system",
- usePrefix: false,
+ usePrefix: true,
  cooldowns: 5,
  dependencies: {
 	"pidusage": ""
